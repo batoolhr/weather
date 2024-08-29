@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/batoolhr/weather.git/static/css/main.b9247d1c.css",
+    "main.js": "/batoolhr/weather.git/static/js/main.1df6e3c2.js",
+    "static/js/787.d62d1c65.chunk.js": "/batoolhr/weather.git/static/js/787.d62d1c65.chunk.js",
+    "index.html": "/batoolhr/weather.git/index.html",
+    "main.b9247d1c.css.map": "/batoolhr/weather.git/static/css/main.b9247d1c.css.map",
+    "main.1df6e3c2.js.map": "/batoolhr/weather.git/static/js/main.1df6e3c2.js.map",
+    "787.d62d1c65.chunk.js.map": "/batoolhr/weather.git/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9247d1c.css",
+    "static/js/main.1df6e3c2.js"
+  ]
+}
